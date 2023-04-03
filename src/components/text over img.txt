@@ -1,0 +1,7 @@
+1.Restaurant Website made by using HTML and CSS
+2.C Programming Bootcamp for 6 days 100% Live interaction
+3.Typing Speed Test Game 
+A graphical User Interface using Python.
+4.Offline Masterclasses on C Programming at LPU for girls batch.
+5.Disk Scheduling OS LAB by using HTML, CSS, JavaScript.
+6.Ecommerce Website by using HTML, CSS, Apache, SQL.
