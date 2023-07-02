@@ -16,7 +16,7 @@ const Home = () => {
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
           Building and Designing software is my passion. Currently, I love to
-          work on web application using technologies like React, Tailwind.
+          work on web application using technologies like NodeJs, Express Js,React, Tailwind, Figma.
           </p>
 
           <div>
