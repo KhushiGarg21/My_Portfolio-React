@@ -8,7 +8,9 @@ import tailwind from "../assets/tailwind.png";
 import java from "../assets/java.png";
 import sql from "../assets/sql.png";
 import bootstrap from "../assets/bootstrap.png";
-
+import nodejs from "../assets/nodejs.png";
+import expressjs from "../assets/expressjs.png";
+import figma from "../assets/figma.png";
 
 const Experience = () => {
   const techs = [
@@ -62,6 +64,25 @@ const Experience = () => {
       title: "Sql",
       style: "shadow-blue-400",
     },
+    
+    {
+      id: 10,
+      src: nodejs,
+      title: "NodeJS",
+      style: "shadow-blue-800",
+    },
+    {
+      id: 11,
+      src: expressjs,
+      title: "ExpressJS",
+      style: "shadow-gray-400",
+    },
+    {
+      id: 12,
+      src: figma,
+      title: "Figma",
+      style: "shadow-orange-700",
+    },
     {
       id: 9,
       src: bootstrap,
@@ -73,7 +94,7 @@ const Experience = () => {
   return (
     <div
       name="experience"
-      className="bg-gradient-to-b from-gray-800 to-black w-full h-screen pt-24"
+      className="bg-gradient-to-b from-gray-800 to-black w-full h-[1240px]"
     >
       <div className="max-w-screen-lg mx-auto p-2 flex flex-col justify-center w-full h-full text-white">
         <div>
